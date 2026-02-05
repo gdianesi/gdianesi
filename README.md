@@ -48,8 +48,3 @@ Focused on <b>backend and frontend development</b>, clean architecture and build
 
 ---
 
-### GitHub overview
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gdianesi&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdianesi&layout=compact" />
-</p>
