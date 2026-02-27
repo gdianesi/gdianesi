@@ -23,7 +23,6 @@ Focused on <b>backend and frontend development</b>, clean architecture and build
 - **Databases:** SQL Server, MongoDB
 - **Quality & DevOps:** TDD, unit testing (MSTest, Moq, FluentAssertions), GitHub Actions
 - **Tools:** Git/GitHub, Docker, Linux/Windows environments
-- **Geo:** GeoServer, WMS / web map services
 
 ---
 
