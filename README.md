@@ -1,7 +1,7 @@
 <h2>Hi, I'm Guillermo Dianesi 👋</h2>
 
 <p>
-Software Engineering student based in Montevideo, Uruguay.<br/>
+Software Engineering student based in Uruguay.<br/>
 Focused on <b>backend and frontend development</b>, clean architecture and building reliable systems.<br/>
 </p>
 
